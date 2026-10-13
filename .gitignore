@@ -1,0 +1,4 @@
+# built sheets and screenshots: rebuild with `node examples/<name>.mjs`
+*.html
+*.png
+.DS_Store

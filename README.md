@@ -9,7 +9,7 @@ Each panel shows one action on a simple posable figure or a close-up, with the e
 ## Install
 
 ```sh
-git clone <this repo> ~/.claude/skills/medic
+git clone https://github.com/zenbakiak/medic ~/.claude/skills/medic
 ```
 
 Then ask Claude Code for a sheet, or call it directly:
